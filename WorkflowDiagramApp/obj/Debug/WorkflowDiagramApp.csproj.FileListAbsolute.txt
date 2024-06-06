@@ -156,3 +156,14 @@ D:\Development\My\WorkflowDiagram\WorkflowDiagram\WorkflowDiagramApp\bin\Debug\W
 D:\Development\My\WorkflowDiagram\WorkflowDiagram\WorkflowDiagramApp\bin\Debug\WfBaseScript.dll
 D:\Development\My\WorkflowDiagram\WorkflowDiagram\WorkflowDiagramApp\bin\Debug\WfBaseScript.pdb
 D:\Development\My\WorkflowDiagram\WorkflowDiagram\WorkflowDiagramApp\bin\Debug\WfBaseScript.dll.config
+C:\Projects\WorkflowDiagram\WorkflowDiagramApp\obj\Debug\WorkflowDiagramApp.csproj.AssemblyReference.cache
+C:\Projects\WorkflowDiagram\WorkflowDiagramApp\obj\Debug\WorkflowDiagramApp.csproj.SuggestedBindingRedirects.cache
+C:\Projects\WorkflowDiagram\WorkflowDiagramApp\obj\Debug\WorkflowDiagramApp.exe.config
+C:\Projects\WorkflowDiagram\WorkflowDiagramApp\obj\Debug\WorkflowDiagramApp.Editors.ChartForm.resources
+C:\Projects\WorkflowDiagram\WorkflowDiagramApp\obj\Debug\WorkflowDiagramApp.MainForm.resources
+C:\Projects\WorkflowDiagram\WorkflowDiagramApp\obj\Debug\WorkflowDiagramApp.Properties.Resources.resources
+C:\Projects\WorkflowDiagram\WorkflowDiagramApp\obj\Debug\WorkflowDiagramApp.csproj.GenerateResource.cache
+C:\Projects\WorkflowDiagram\WorkflowDiagramApp\obj\Debug\WorkflowDiagramApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\WorkflowDiagram\WorkflowDiagramApp\obj\Debug\WorkflowDiagramApp.csproj.CoreCompileInputs.cache
+C:\Projects\WorkflowDiagram\WorkflowDiagramApp\obj\Debug\WorkflowDiagramApp.exe
+C:\Projects\WorkflowDiagram\WorkflowDiagramApp\obj\Debug\WorkflowDiagramApp.pdb

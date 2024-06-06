@@ -308,7 +308,7 @@ namespace WorkflowDiagram.UI.Win {
             try {
                 System.Drawing.Size gsz = new System.Drawing.Size((int)sz.Width, (int)sz.Height);
                 using(GraphicsCacheDxHtmlWrapper wrapper = new GraphicsCacheDxHtmlWrapper(cache, UserLookAndFeel.Default)) {
-                    res = TemplateElement.ViewInfo.CalcBestSize(wrapper, Point.Empty, gsz, app.GetFont(), app.GetForeColor(), DevExpress.Utils.Html.Base.DxHtmlLayoutChangeActions.None);
+                    res = TemplateElement.ViewInfo.Calc(wrapper, Point.Empty, gsz, app.GetFont(), app.GetForeColor(), DevExpress.Utils.Html.Base.DxHtmlLayoutChangeActions.None);
                 }
             }
             finally {

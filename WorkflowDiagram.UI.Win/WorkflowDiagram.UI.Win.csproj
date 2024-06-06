@@ -44,69 +44,59 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.Charts.v22.1.Core, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Charts.v22.1.Core, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      
     </Reference>
-    <Reference Include="DevExpress.Data.Desktop.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.Data.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Data.Desktop.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Diagram.v22.1.Core, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Diagram.v22.1.Core, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Dialogs.v22.1.Core, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Dialogs.v22.1.Core, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Drawing.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Drawing.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Printing.v22.1.Core, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.Utils.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Printing.v22.1.Core, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Utils.v22.1.UI, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Utils.v22.1.UI, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      
     </Reference>
-    <Reference Include="DevExpress.XtraBars.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
-    <Reference Include="DevExpress.XtraCharts.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.XtraBars.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v22.1.UI, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.XtraCharts.v22.1.UI, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      
     </Reference>
-    <Reference Include="DevExpress.XtraDiagram.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.XtraDiagram.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraDialogs.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.XtraDialogs.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraEditors.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.XtraEditors.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraGrid.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.XtraLayout.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.XtraPrinting.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
-    <Reference Include="DevExpress.XtraVerticalGrid.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v22.1.Core, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v22.1.Win, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraLayout.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v22.1, Version=22.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="MetaSharp">
       <HintPath>C:\Development\2022.1\Bin\Framework4\Preprocess\MetaSharp\MetaSharp.dll</HintPath>
     </Reference>
@@ -125,12 +115,6 @@
     <Reference Include="System.Xml" />
     <Reference Include="UIAutomationClient" />
     <Reference Include="WindowsBase" />
-    <Reference Include="WorkflowDiagram, Version=1.0.13.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\WorkflowDiagram.1.0.13\lib\net472\WorkflowDiagram.dll</HintPath>
-    </Reference>
-    <Reference Include="XmlSerialization, Version=1.0.7.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XmlSerialization.1.0.7\lib\net472\XmlSerialization.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConnectionsEditor.cs">
@@ -154,11 +138,69 @@
     <Compile Include="NodeItem.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="Platform\Forms\ChartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Platform\Forms\ChartForm.Designer.cs">
+      <DependentUpon>ChartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Platform\Forms\ChartUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Platform\Forms\ChartUserControl.Designer.cs">
+      <DependentUpon>ChartUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Platform\Forms\DashboardContainerControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Platform\Forms\DashboardContainerControl.Designer.cs">
+      <DependentUpon>DashboardContainerControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Platform\Forms\DashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Platform\Forms\DashboardForm.Designer.cs">
+      <DependentUpon>DashboardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Platform\Forms\GaugeUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Platform\Forms\GaugeUserControl.Designer.cs">
+      <DependentUpon>GaugeUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Platform\Forms\TableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Platform\Forms\TableForm.Designer.cs">
+      <DependentUpon>TableForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Platform\Forms\TableFormCustomization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Platform\Forms\TableFormCustomization.Designer.cs">
+      <DependentUpon>TableFormCustomization.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Platform\Forms\TableUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Platform\Forms\TableUserControl.Designer.cs">
+      <DependentUpon>TableUserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Platform\Managers\ChartVisualizationManager.cs" />
+    <Compile Include="Platform\Managers\GaugeVisualizationManager.cs" />
+    <Compile Include="Platform\Managers\TableVisualizationManager.cs" />
+    <Compile Include="Platform\WinFormPlatformServices.cs" />
+    <Compile Include="Platform\WinPlatformChartService.cs" />
+    <Compile Include="Platform\WinPlatformGaugeService.cs" />
+    <Compile Include="Platform\WinPlatformTableService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="WfColorEdti.cs">
+      <SubType>Component</SubType>
     </Compile>
     <Compile Include="WfDocumentControl.cs">
       <SubType>UserControl</SubType>
@@ -166,6 +208,7 @@
     <Compile Include="WfDocumentControl.Designer.cs">
       <DependentUpon>WfDocumentControl.cs</DependentUpon>
     </Compile>
+    <Compile Include="WfWinFormResourceProvider.cs" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="ConnectionsEditor.resx">
@@ -173,6 +216,30 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ConnectorsEditor.resx">
       <DependentUpon>ConnectorsEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Platform\Forms\ChartForm.resx">
+      <DependentUpon>ChartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Platform\Forms\ChartUserControl.resx">
+      <DependentUpon>ChartUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Platform\Forms\DashboardContainerControl.resx">
+      <DependentUpon>DashboardContainerControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Platform\Forms\DashboardForm.resx">
+      <DependentUpon>DashboardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Platform\Forms\GaugeUserControl.resx">
+      <DependentUpon>GaugeUserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Platform\Forms\TableForm.resx">
+      <DependentUpon>TableForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Platform\Forms\TableFormCustomization.resx">
+      <DependentUpon>TableFormCustomization.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Platform\Forms\TableUserControl.resx">
+      <DependentUpon>TableUserControl.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -184,9 +251,32 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="app.config" />
     <None Include="packages.config" />
+    <None Include="Platform\Forms\DashboardContainerControl.resx.bak" />
+    <None Include="Platform\Forms\GaugeUserControl.resx.bak" />
+    <None Include="Platform\Forms\TableFormCustomization.resx.bak" />
+    <None Include="Platform\Forms\TableUserControl.resx.bak" />
     <None Include="Properties\DataSources\WorkflowDiagram.WfConnector.datasource" />
     <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WorkflowDiagram.Nodes.Base\WorkflowDiagram.Nodes.Base.csproj">
+      <Project>{fde9ea71-c293-47f5-981a-d56e9505114a}</Project>
+      <Name>WorkflowDiagram.Nodes.Base</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WorkflowDiagram.Nodes.Visualization\WorkflowDiagram.Nodes.Visualization.Win.csproj">
+      <Project>{b17d2ef7-5c40-4a49-beec-750763c6281d}</Project>
+      <Name>WorkflowDiagram.Nodes.Visualization.Win</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WorkflowDiagram\WorkflowDiagram.csproj">
+      <Project>{5c2ec487-3e30-4274-8263-dbacfa5319c6}</Project>
+      <Name>WorkflowDiagram</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\XmlSerialization\XmlSerialization\XmlSerialization.csproj">
+      <Project>{4af0943a-da67-4a85-b594-3dbc3c79217a}</Project>
+      <Name>XmlSerialization</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

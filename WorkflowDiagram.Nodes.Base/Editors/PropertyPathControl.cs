@@ -11,7 +11,7 @@ using DevExpress.XtraEditors;
 using System.Reflection;
 using DevExpress.XtraTreeList.Nodes;
 using DevExpress.XtraTreeList;
-using WorkflowDiagramApp.Helpers;
+//using WorkflowDiagramApp.Helpers;
 
 namespace WfBaseScript.Editors {
     public partial class PropertyPathControl : XtraUserControl {

@@ -12,6 +12,7 @@ using DevExpress.XtraEditors.ViewInfo;
 using DevExpress.XtraEditors.Popup;
 using System.Windows.Forms;
 using DevExpress.Utils;
+using WorkflowDiagram.Editors;
 
 namespace WfBaseScript.Editors {
     [UserRepositoryItem("RegisterPropertiesPopupEdit")]
